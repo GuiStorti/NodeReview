@@ -1,0 +1,19 @@
+{
+  "name": "revnode",
+  "version": "1.0.0",
+  "description": "revisao node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Guilherme Luiz Storti do Carmo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}

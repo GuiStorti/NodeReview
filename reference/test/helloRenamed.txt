@@ -1,0 +1,2 @@
+conteudo do texto
+append file deve ser usado para adicionar mais texto, writeFile sobrescreveria o arquivo
